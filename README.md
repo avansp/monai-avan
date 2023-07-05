@@ -16,10 +16,10 @@ $ ./run-docker-rm.sh [CODES_DIR] [DATA_DIR]
 
 Run a background Jupyter server
 ```
-$ ./run-docker-d.sh [CODES_DIR] [DATA_DIR]
+$ ./run-docker-d.sh [CODES_DIR] [DATA_DIR] [TOKEN]
 ```
 
-The Jupyter-Lab notebook can be opened from http://localhost:8888
+The Jupyter-Lab notebook can be opened from http://localhost:8888 with the token you setup.
 
 To enter the container, the easiest way is to launch terminal from Jupyter.
 
