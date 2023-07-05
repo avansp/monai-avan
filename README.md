@@ -1,8 +1,6 @@
 MONAI Collection
 ----
 
-My collections of MONAI tests from tutorials, guides, tips, etc.
-
 ## Quick setup with docker
 
 This will create an image with tag name monai-tut
@@ -23,8 +21,11 @@ $ ./run-docker-d.sh [CODES_DIR] [DATA_DIR]
 
 The Jupyter-Lab notebook can be opened from http://localhost:8888
 
+To enter the container, the easiest way is to launch terminal from Jupyter.
 
-## Collection
+## About the collection
 
-*COMING SOON*
+The notebooks are some codes I've tested myself. I'm learning MONAI by examples. Just browse through them.
 
+
+-- Avan Suinesiaputra 
